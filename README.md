@@ -12,6 +12,25 @@ Portfolio allocation in cryptocurrencies involves deciding how to distribute cap
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Programming Language**: Python
+- **Data Handling**:  
+  - `pandas` – Data manipulation and preprocessing  
+  - `numpy` – Numerical operations  
+- **Data Visualization**:  
+  - `matplotlib` and `seaborn` – Plotting and analysis  
+- **Machine Learning / Deep Learning**:  
+  - `scikit-learn` – Standardization and scaling  
+  - `Keras` (with TensorFlow backend) – Neural network implementation  
+- **Reinforcement Learning**:  
+  - Custom DQN logic using `deque`, `random`, and `numpy.random.choice`  
+- **Utility**:  
+  - `datetime` – Date and time management  
+  - `math` – Mathematical operations  
+
+---
+
 ## 🧠 Methodology
 
 We implement and compare two reinforcement learning strategies:
@@ -77,25 +96,6 @@ Evaluation plots and performance summaries can be seen in output.
 
 ✅ **Significantly better risk-adjusted returns**  
 ✅ **Reduced volatility and market exposure**
-
----
-
-## 🛠️ Tech Stack
-
-- **Programming Language**: Python
-- **Data Handling**:  
-  - `pandas` – Data manipulation and preprocessing  
-  - `numpy` – Numerical operations  
-- **Data Visualization**:  
-  - `matplotlib` and `seaborn` – Plotting and analysis  
-- **Machine Learning / Deep Learning**:  
-  - `scikit-learn` – Standardization and scaling  
-  - `Keras` (with TensorFlow backend) – Neural network implementation  
-- **Reinforcement Learning**:  
-  - Custom DQN logic using `deque`, `random`, and `numpy.random.choice`  
-- **Utility**:  
-  - `datetime` – Date and time management  
-  - `math` – Mathematical operations  
 
 ---
 
